@@ -1,0 +1,5 @@
+{
+  "name": "Secret Santa Manager",
+  "description": "A secure and interactive application to manage Secret Santa (Amigo Secreto) assignments for a specific group of friends, ensuring no one draws themselves.",
+  "requestFramePermissions": []
+}
